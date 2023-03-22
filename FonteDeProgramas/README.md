@@ -1,0 +1,1 @@
+# Esta pasta deve ser usada para guardar códigos de programas de computado, produzidos em editor de linguagem.
