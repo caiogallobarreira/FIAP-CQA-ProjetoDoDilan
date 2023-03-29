@@ -1,0 +1,1 @@
+# Coloque nesta pasta somente documentos que explicam pendencias a respeito do projeto que não serão atendidas na primeira versão
